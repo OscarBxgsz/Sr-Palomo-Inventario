@@ -1,28 +1,77 @@
-Sr. Palomo — Sistema de Inventario
+# 🐧 Sr. Palomo — Sistema de Inventario
 
-Sistema de inventario y gestión de ventas desarrollado en Python como proyecto final de la materia Fundamentos de Programación.
+**Sistema de inventario y ventas desarrollado en Python para el negocio Sr. Palomo.**
 
-El proyecto tiene como objetivo simular la administración básica de una tienda especializada en productos relacionados con Anime y K-Pop, permitiendo registrar productos, controlar existencias y administrar las ventas realizadas.
+---
 
-El sistema cuenta con una interfaz gráfica desarrollada utilizando Tkinter, además de un sistema de almacenamiento local mediante archivos JSON, permitiendo conservar la información de productos y ventas entre diferentes ejecuciones del programa.
+## 🎯 Descripción
 
-El proyecto fue desarrollado de manera progresiva, incorporando diferentes funcionalidades durante las distintas etapas de desarrollo y realizando posteriormente correcciones y mejoras en la interfaz de usuario.
+Sr. Palomo es un programa desarrollado como proyecto final de la materia de Fundamentos de Programación.
 
-Funciones principales
-🔐 Inicio de sesión mediante usuario y contraseña.
-📦 Registro de productos.
-📝 Modificación de productos.
-🗑️ Eliminación de productos.
-📊 Consulta del inventario.
-📈 Ajuste de existencias.
-🛒 Registro de ventas.
-💰 Cálculo de ingresos y ganancias.
-📊 Análisis básico de demanda.
-🧾 Historial de ventas.
-📋 Resumen general del inventario.
-💾 Almacenamiento de información mediante archivos JSON.
-Tecnologías utilizadas
-Python
-Tkinter
-JSON
-Programación orientada a funciones y estructuras básicas de Python
+El sistema permite llevar un control sencillo de los productos, las existencias y las ventas del negocio mediante una interfaz gráfica.
+
+El proyecto busca facilitar la administración del inventario y mostrar información básica sobre las ventas y la demanda de los productos.
+
+---
+
+## ⚙️ Funciones principales
+
+- 🔐 **Inicio de sesión**
+  - Usuario y contraseña para acceder al sistema.
+
+- 📦 **Registro de productos**
+  - Agregar nuevos productos al inventario.
+  - Registrar nombre, precio, categoría y existencias.
+
+- 🛒 **Registro de ventas**
+  - Registrar productos vendidos.
+  - Actualizar automáticamente las existencias.
+
+- 📋 **Consulta de inventario**
+  - Ver los productos registrados.
+  - Consultar precios y existencias.
+
+- ✏️ **Modificación de productos**
+  - Cambiar información de los productos registrados.
+
+- 🗑️ **Eliminación de productos**
+  - Eliminar productos del inventario.
+
+- 📊 **Análisis de demanda**
+  - Consultar información sobre los productos más y menos vendidos.
+
+- 📈 **Resumen general**
+  - Mostrar información general sobre productos, ventas y existencias.
+
+- 🧾 **Historial de ventas**
+  - Consultar las ventas realizadas anteriormente.
+
+- 💾 **Guardado de información**
+  - Los datos se almacenan mediante un archivo JSON.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- 🐍 **Python**
+- 🖥️ **Tkinter**
+- 💾 **JSON**
+
+---
+
+## 🔑 Acceso de prueba
+
+**Usuario:** `admin`
+
+**Contraseña:** `1234`
+
+---
+
+## ▶️ Cómo ejecutar el programa
+
+1. Tener instalado **Python**.
+2. Descargar o clonar este repositorio.
+3. Mantener el archivo `sr_palomo_logo.png` en la misma carpeta que el programa.
+4. Ejecutar el archivo:
+
+python "PROYECTO FINAL.py"
