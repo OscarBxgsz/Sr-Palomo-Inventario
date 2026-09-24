@@ -1,0 +1,45 @@
+{
+    "productos": [
+        {
+            "nombre": "dsadsa",
+            "categoria": "Anime",
+            "franquicia": "dsadas",
+            "tipo": "dsadsa",
+            "precio": 2.0,
+            "costo": 1.0,
+            "inventario": 5464,
+            "id": 1,
+            "vendidos": 0,
+            "ingresos": 0,
+            "ganancia": 0,
+            "activo": false
+        },
+        {
+            "nombre": "Sudadera de Luffy",
+            "categoria": "Anime",
+            "franquicia": "One Piece",
+            "tipo": "Ropa",
+            "precio": 400.0,
+            "costo": 150.0,
+            "inventario": 96,
+            "id": 2,
+            "vendidos": 4,
+            "ingresos": 1600.0,
+            "ganancia": 1000.0,
+            "activo": true
+        }
+    ],
+    "ventas": [
+        {
+            "fecha": "2026-09-24 09:53:34",
+            "id_producto": 2,
+            "producto": "Sudadera de Luffy",
+            "cantidad": 4,
+            "precio_unitario": 400.0,
+            "descuento": 0.0,
+            "ingreso": 1600.0,
+            "ganancia": 1000.0
+        }
+    ],
+    "siguiente_id": 3
+}
