@@ -74,4 +74,5 @@ El proyecto busca facilitar la administración del inventario y mostrar informac
 3. Mantener el archivo `sr_palomo_logo.png` en la misma carpeta que el programa.
 4. Ejecutar el archivo:
 
+```bash
 python "PROYECTO FINAL.py"
