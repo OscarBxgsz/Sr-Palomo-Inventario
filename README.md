@@ -74,4 +74,4 @@ El proyecto busca facilitar la administración del inventario y mostrar informac
 3. Ejecutar el archivo:
 
 ```bash
-python "PROYECTO FINAL.py"
+python "PROYECTO_FINAL.py"
